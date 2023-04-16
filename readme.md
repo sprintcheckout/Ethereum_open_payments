@@ -62,7 +62,7 @@ Crypto payments are not widely accepted by merchants nowadays.
 This specification aims to establish a standard that can be adopted by wallets, payment processing dapps (Web3 payment dapps), bundlers, and paymasters to provide a consistent payment experience that is easily recognizable by the general public.
 We believe that combining a user-friendly experience with the scalability of zkEVMs and the security of Ethereum will web3 payments use case competitive with traditional payments.
 
-## Goal
+## Goals
 - Create a non-profit organization, for example named "Ethereum for Payments (E4P)", that any interested company can join.
 - Establish branding and awareness among the general public, so that they can recognize and relate to the best-in-class payment experience.
 - Develop a standard that web3 payment-related companies can follow.
@@ -74,7 +74,9 @@ Any individual interested in Web3 payments, especially those with skills to cont
 
 
 #### How to contribute
-- Contribute to this spec. Pull request  
+- Contribute to this spec. Pull request to the repo available here https://github.com/sprintcheckout/Ethereum_for_payments/
+- Join the Telegram group https://t.me/+fuCfC8IlhJ0zNTQ0
+- Join the list of official founding members, ask on the telegram group
 
 #### Why to get involved
-
+The development of zkEVMs and ERC4337 has created a new opportunity for decentralized payments that are scalable, fast, and secure. By working together as a group, we can strengthen each part of the ecosystem and onboard merchants and consumers to this new frontier of payments.
