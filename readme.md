@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/uKSXryT.png)
 ### Scenario
-Customer Bob pays 100USDC to the Merchant Alice Flowers
+Customer Bob pays 100USDC to Alice Flowers
 
 ### Events
 
@@ -42,8 +42,8 @@ Customer Bob pays 100USDC to the Merchant Alice Flowers
 ---
 
 ## Specification
-
-*The following ERC4337 elements must work together to meet the requirements listed above.*
+*work in progress*
+### Wallet
 
 ### UserOperation 
 
@@ -56,3 +56,12 @@ Customer Bob pays 100USDC to the Merchant Alice Flowers
 ### Aggregator
 
 ### Paymaster
+
+## Rational
+Crypto payments are not widely accepted by merchants nowadays. However, other ways of using blockchain technology, such as decentralized exchanges, have gained considerable adoption.
+This specification aims to establish a standard that can be adopted by wallets, payment processing dapps (Web3 payment dapps), bundlers, and paymasters to provide a consistent payment experience that is easily recognizable by the general public.
+We believe that combining a user-friendly experience with the scalability of zkEVMs and the security of Ethereum will web3 payments use case competitive with traditional payments.
+
+## Get involved
+
+
