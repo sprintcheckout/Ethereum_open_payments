@@ -58,10 +58,23 @@ Customer Bob pays 100USDC to Alice Flowers
 ### Paymaster
 
 ## Rational
-Crypto payments are not widely accepted by merchants nowadays. However, other ways of using blockchain technology, such as decentralized exchanges, have gained considerable adoption.
+Crypto payments are not widely accepted by merchants nowadays.
 This specification aims to establish a standard that can be adopted by wallets, payment processing dapps (Web3 payment dapps), bundlers, and paymasters to provide a consistent payment experience that is easily recognizable by the general public.
 We believe that combining a user-friendly experience with the scalability of zkEVMs and the security of Ethereum will web3 payments use case competitive with traditional payments.
 
+## Goal
+- Create a non-profit organization, for example named "Ethereum for Payments (E4P)", that any interested company can join.
+- Establish branding and awareness among the general public, so that they can recognize and relate to the best-in-class payment experience.
+- Develop a standard that web3 payment-related companies can follow.
+
 ## Get involved
 
+#### Who should get involved
+Any individual interested in Web3 payments, especially those with skills to contribute technically or in other areas such as content generation, community management, marketing, and branding, are welcome to participate. Additionally, any organization working on a component of ERC4337 (such as wallets, bundlers, and paymasters) or building services related to Web3 payments (such as wallets and payment processing) is encouraged to join.
+
+
+#### How to contribute
+- Contribute to this spec. Pull request  
+
+#### Why to get involved
 
